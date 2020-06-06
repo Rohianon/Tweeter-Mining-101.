@@ -1,4 +1,4 @@
-{:toc max_level=3 }
+{:toc }
 ## Introduction
 This program is meant to depict how one can set off the journey to NLP in R. The whole process of setting up a a twitter app from scratch so that one can access the credentials can be found [here](http://docs.inboundnow.com/guide/create-twitter-application/). Basically, one needs a twitter developer account where he/she can access the Consumer and Access tokens, secret and keys. 
 
@@ -32,6 +32,6 @@ As depicted by the whole twitter analysis process, the #uhurudontliftlockdown  w
 
 
 Now that we've started, let's keep going.
-Stay tuned and be prepared for deeper tweeter analytics using Machine learning methods such as Principal Component Analysis and Multidimensional Scaling. I believe that nothing in this world is difficult and in the same spirit we will walk through this.
+Stay tuned and be prepared for deeper twittr analytics using Machine learning methods such as Principal Component Analysis and Multidimensional Scaling. I believe that nothing in this world is difficult and in the same spirit we will walk through this.
 
 Thank  you for reading this article. In case of any comments, compliments, and criticism you are welcome. Find me on twitter [@anon_rohi](https://twitter.com/anon_rohi), [rpubs](https://rpubs.com/RohiAnon) or on [linked in](https://www.linkedin.com/in/rohi-anon-38a026167/). You can also find [my github page](https://github.com/Rohianon).  All the best as continue coding
